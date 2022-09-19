@@ -80,7 +80,7 @@ ul li a:hover{
     font-weight: extra-bold;
     font-family: Arial;
 }
-.text-box p{
+.text-box p{ 
     float: left;
     font-size: 18px;
     margin: 2px 0 8px;
@@ -152,6 +152,7 @@ ul li a:hover{
     max-width: 200px;
     color: #777;
     text-align: start;
+    
 }
 
 .info {
