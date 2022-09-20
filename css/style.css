@@ -117,7 +117,31 @@ h2{
     font-size: 18px;
 }
 
+.section3{
+    background-color: #e7e5eb;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+h3{
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1f2937;
+    text-align: center;
+}
 
+.p-third{
+    font-size: 18px;
+    text-align: end;
+}
+
+#p{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 300px;
+}
 
 
 
