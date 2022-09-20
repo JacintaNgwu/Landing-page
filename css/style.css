@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
 
 *{
@@ -56,17 +55,52 @@ h1{
     margin: 50px;
 }
 
-.left-text-box,.right-text-box{
+.right-text-box{
     display: flex;
     justify-content: center;
-    text-align: center;
+    align-items: center;
     flex-direction: column;
     width: 50%;
 }
 
-img{
-    margin: 50px;
+.left-text-box{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 50%;
+    margin-left: 250px;
 }
+
+img{
+    margin-bottom: 50px;
+}
+
+.p-first{
+    font-size: 18px;
+    color: #e5e7eb;
+    
+}
+
+.sign-up-main{
+    background-color: #3882F6;
+    color: #e5e7eb;
+    width: 90px;
+    height: 30px;
+    border: 1px #3882F6;
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 /*
@@ -90,24 +124,6 @@ body{
 
 
 }       
-=======
-*{
-    font-family: Arial;
-    margin: 0;
-    padding: 0;
-    
-}
-
-.header{
-
-    background-color: blueviolet;
-    background-size: cover;
-    position: relative;
-    width: 100%;
-    height: 400px;
-}
-
->>>>>>> 661535d7da1f7ab84409c95ef42d9b8c69172093
 .navbar{
     width: 1200px;
     height: 75px;
